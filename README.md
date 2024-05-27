@@ -1,6 +1,5 @@
 ## Olá! Eu sou Elieudo silva👋
--😁Quero trabalhar com front-end
--📚Estudando HTML CSS
+- Android Developer | Kotlin | Java | C++
 
 <div>
 <i class="devicon-adonisjs-originalcolori"></i>
