@@ -1,7 +1,6 @@
 
 
 <p align="left">- Android Developer Kotlin </p>
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/elieudo-silva-203838301/" target="_blank">
