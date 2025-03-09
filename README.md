@@ -1,17 +1,6 @@
 
 
-<p align="left">- Android Developer Kotlin </p>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12"/>
-
+<p align="left">Android Developer Kotlin </p>
 ###
 
 <h2 align="left">Stats</h2>
