@@ -3,10 +3,6 @@
 <p align="left">- Android Developer Kotlin </p>
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/elieudo-silva-203838301/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
