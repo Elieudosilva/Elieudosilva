@@ -1,6 +1,6 @@
 
 
-<p align="left">- Android Developer</p>
+<p align="left">- Android Developer Kotlin </p>
 
 ###
 
