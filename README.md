@@ -27,7 +27,7 @@ Desenvolvedor Android em formação, focado em criar soluções eficientes e com
 - 🍼 **BabyTracker (Em desenvolvimento)** - Projeto colaborativo em equipe aplicando fluxo de trabalho profissional, Code Review e boas práticas em Android.
 - 🎯 **Desafios Mobile** - Projetos práticos construídos com base em requisitos específicos para simular demandas reais do mercado.
 - 🧮 **[Calculadora IMC](https://github.com/Elieudosilva/calculadoraImc)** - Aplicativo nativo em Kotlin para cálculo de Índice de Massa Corporal.
-- ✅ **[TaskBeat](https://github.com/Elieudosilva/TaskBeat)** 
+- ⛽ **[FuelCalculator](https://github.com/Elieudosilva/FuelCalculator)** - Aplicativo Android em Kotlin para ajudar no cálculo de rendimento e custos de combustível.
 - 📋 **[RecyclerView](https://github.com/Elieudosilva/RecyclerView)** - Estudos e práticas de listagem de dados eficientes no Android.
 
 ---
@@ -35,11 +35,11 @@ Desenvolvedor Android em formação, focado em criar soluções eficientes e com
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elieudosilva&show_icons=true&theme=radium&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=Elieudosilva&theme=radium&hide_border=true" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elieudosilva&layout=compact&theme=radium&hide_border=true" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 ### 🔗 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/COLOQUE_SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elieudo-silva-203838301/)
