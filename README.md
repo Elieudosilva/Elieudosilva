@@ -32,14 +32,5 @@ Desenvolvedor Android em formação, focado em criar soluções eficientes e com
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Elieudosilva&theme=radium&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elieudosilva&layout=compact&theme=radium&hide_border=true" height="150" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ### 🔗 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elieudo-silva-203838301/)
