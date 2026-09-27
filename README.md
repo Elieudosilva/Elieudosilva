@@ -28,7 +28,7 @@ Desenvolvedor Android em formação, focado em criar soluções eficientes e com
 - 🎯 **Desafios Mobile** - Projetos práticos construídos com base em requisitos específicos para simular demandas reais do mercado.
 - 🧮 **[Calculadora IMC](https://github.com/Elieudosilva/calculadoraImc)** - Aplicativo nativo em Kotlin para cálculo de Índice de Massa Corporal.
 - ⛽ **[FuelCalculator](https://github.com/Elieudosilva/FuelCalculator)** - Aplicativo Android em Kotlin para ajudar no cálculo de rendimento e custos de combustível.
-- 📋 **[RecyclerView](https://github.com/Elieudosilva/RecyclerView)** - Estudos e práticas de listagem de dados eficientes no Android.
+- 🎲 **[Mega-Sena Compose](https://github.com/Elieudosilva/MegaSena)** - Aplicativo em Kotlin e Jetpack Compose para gerar apostas da Mega-Sena, com Material 3 e persistência via SharedPreferences.
 
 ---
 
